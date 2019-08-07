@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MifinityCreditCardApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: akars
+Implementation-Vendor-Id: com.mifinity.creditcardapp
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MifinityCreditCardApp
+Created-By: Maven Integration for Eclipse
+
